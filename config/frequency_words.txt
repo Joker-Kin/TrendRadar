@@ -23,12 +23,6 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
 哪吒
 饺子
 杨宇
@@ -65,6 +59,7 @@ AMD
 google
 gemini
 deepmind
+notebooklm
 
 chatgpt
 openai
